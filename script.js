@@ -41,7 +41,7 @@ const questions = [
   {q:"Post-maturity is defined as pregnancy extending to or beyond 42 weeks.", a:true},
   {q:"The incidence of post-maturity is approximately 5–10% of pregnancies.", a:true},
   {q:"Causes of post-maturity include decreased fetal cortisol, reduced prostaglandins, reduced uterine distension, familial tendency, and idiopathic causes.", a:true},
-  {q:"Post-maturity complications include IUGR, IUFD, oligohydramnios, macrosomia, and post-mature baby features.", a:false},
+  {q:"Post-maturity complications include IUGR, IUFD, oligohydramnios, macrosomia, and post-mature baby features.", a: true},
   {q:"At 40 weeks, management may include modified biophysical profile; abnormal results may indicate termination.", a:true},
   {q:"If MBPP at 40 weeks is normal, it is repeated at 41 weeks before further decisions.", a:true}
 ];
